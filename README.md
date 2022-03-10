@@ -2,10 +2,12 @@
 Programming Language Paradigms
 
 Drunkard's Walk:
+
 This program takes in *n* as the number of intersections traversed over a grid of streets that our drunkard stumbles through, they start at (0,0). The user is asked how many intersections the person goes through and after gives the coordinates of the person.
 
 
 The Game of Nim:
+
 The game of Nim is played as follows.  Two players alternately take marbles from a pile. In each move, a player chooses how many marbles to take. The player must take at least one but at most half of the marbles. Then the other player takes a turn. The player who takes the last marble loses. In this program the user is pitted against a CPU.
 
 - We generate a random integer between 10-100 to start the size of the pile.
@@ -20,4 +22,5 @@ The computer cannot be beaten in smart mode when it has the first move, unless t
 
 
 Perfect Numbers:
+
 A positive integer is called a perfect number if it is equal to the sum of all of its positive divisors, excluding itself. For example, 6 is the first perfect number because 6 = 3 + 2 + 1. The next is 28 = 14 + 7 + 4 + 2 + 1.  The program asks the user for a value *n* and displays all perfect numbers from 6 to n.  ***NOTE: There are not many perfect numbers so you may only have a few results depending on the input value.***
