@@ -1,6 +1,6 @@
 """
 Cameron Cheng
-302738415
+
 CS3035-01
 vector_tester.py tests each overloaded method
 https://calstatela.instructuremedia.com/embed/27562c11-1374-4c3f-8541-70d819cf1ea0
