@@ -1,6 +1,6 @@
 """
 Cameron Cheng
-302738415
+
 CS3035-01
 vector.py overloads methods to work with the Vector class
 """
