@@ -1,4 +1,4 @@
-***question01.py**
+***question01.py***
 
 In this program I was required to use the functional programming paradigm. Recursion is also required as loops are not allowed.
 
@@ -7,7 +7,7 @@ There are 3 functions in this program, add(x,y), mult(x,y), and process_digits(n
 The main method in this program asks the user to enter a number and then show the sum and product of the digits of that number.
 
 
-***homework6.py**
+***homework6.py***
 
 In this program I was required to make each of the statements return true by using the functions: map(), filter(), or reduce().
 
